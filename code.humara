@@ -1,0 +1,7 @@
+humara x = 10
+humara y = 20
+humara z = 39
+
+humara value = x*y*z
+printkaro value
+

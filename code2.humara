@@ -1,0 +1,14 @@
+humara a = 5
+humara b = 10
+agar (a < b) {
+    printkaro "a is less than b"
+} warna {
+    printkaro "a is not less than b"
+}
+
+humara sum = 0
+jabtak (sum <= 20) {
+    sum = sum + a
+    printkaro sum
+}
+    

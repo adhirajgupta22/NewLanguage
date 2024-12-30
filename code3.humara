@@ -1,0 +1,10 @@
+agar (a < b) {
+    printkaro "a is less than b"
+} warna {
+    printkaro "a is not less than b"
+}
+
+jabtak (sum <= 20) {
+    sum = sum + a
+    printkaro sum
+}
